@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tiagosouza-s
-- 👀 I’m interested in  desenvolvimento web
+- 👀 I’m interested in front-end development
 - 🌱 I’m currently learning  HTML e CSS
 
 
