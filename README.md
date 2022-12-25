@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tiagosouza-s
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning  HTML e CSS
+- Hi, I’m @tiagosouza-s
+- I’m interested in front-end development
+- I’m currently learning  HTML e CSS
 
 
 <!---
