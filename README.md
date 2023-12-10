@@ -1,4 +1,4 @@
-## Tiago Souza - Desenvolvedor Web 🚀
+## Tiago Souza - Desenvolvedor Web 
 Olá! Eu sou Tiago Souza,um apaixonado por tecnologia e games em especial jogos de futebol! Cursando Análise e Desenvolvimento de Sistemas e me especializando em Desenvolvimento Web Front-end!
 
 ## Conecte-se comigo
